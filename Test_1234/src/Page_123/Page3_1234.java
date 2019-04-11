@@ -5,6 +5,6 @@ public static void main(String [] args)
 {
 	Integer x=5;
 	Integer y=51;
-	System.out.println(x+y);
+	System.out.println(x-y);
 }
 }
